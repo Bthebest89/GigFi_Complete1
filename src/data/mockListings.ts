@@ -136,5 +136,18 @@ export const categories = [
   {
     name: 'Online Surveys',
     subcategories: ['Market Research', 'Product Testing', 'User Experience', 'Academic'],
-  }
+  },
+   
+  {
+    name: 'Gigs',
+    subcategories: ['Graphic Design', 'Content Writing', 'Digital Marketing', 'Voice Over']
+  },
+  {
+    name: 'Real Estate',
+    subcategories: ['Residential', 'Commercial', 'Industrial', 'Land']
+  },
+  {
+    name: 'General Merchandise',
+    subcategories: ['Electronics', 'Clothing', 'Home & Garden', 'Sports']
+  },
 ];
